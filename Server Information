@@ -1,0 +1,91 @@
+// Odin RO Server Information
+
+Server Settings:
+	` Episode 13.2 (Into the Uknown)
+	` Max Base Level: 99 (Transcendent) ✓
+	` Max Job Level: 70 (Transcendent) ✓
+	` Max Atkspeed: 190 ✓
+	` Max Cartweight: Default ✓
+	` Max Zeny: 2 billion ✓
+	` No Custom Items/Weapons/Armor ✓
+	` God Items disabled ✓
+	` Pre-Renewal Mechanics
+
+Experience Rates:
+	` Base Exp: 30x ✓
+	` Job Exp: 30x ✓
+	` Exp Bonus Party: + 40% More if the party has 5 or more members ✓
+
+Server Freebies:
+	* These are account bound * (Trade,Drop,Vend are Impossible.) ✓
+	` 50% Base Exp Manual 30 Minutes ✓
+	` 50% Job Battle Manual 30 Minutes ✓
+	` 300 Novice Potion ✓
+	` 25 Novice Butterfly Wing ✓
+	` 50 Novice Fly Wing ✓
+
+Drop Rates:
+	` General Drop: 15x ✓
+	` Normal Card: 0.15% ✓
+	` MVP/Mini Cards: 0.01% ✓
+	` Treasure: 15x ✓
+	` MVP Bonus: 15x ✓
+
+Guild / Party
+	` Party Share Range: 15 ✓
+	` Party Size: 20 Members ✓
+	` Max Guild Members : 30 - (20 Starting , 1 addition per skill level) ✓
+	` Guild Alliances: 1 ✓
+
+Server General Information:
+	` Job Changer ✓
+	` Rental Service(Breeder) Rental Cost: 10,000z ✓
+	` Stylist Girl ✓ (Limited Colors only and Styles)
+	` Healer ✓
+	` Warper ( Level 1 Dungeons/Fields ) ✓
+	` NPC Events
+	` Basic Tool Dealer ✓
+	` Card Remover ( Default ) ✓
+	` Security System ( @security ) ✓
+	` Main Town (Lighthalzen) ✓
+	/* Server Feature */
+	` Hourly Points Reward ✓ ( Hourly Points can get by staying online for 1 hour the server will award you n Hourly Points once you've reach the 60minute mark of this feature, however the minutes you have spent in-game is saved so you can just login again and complete the remaining hours to claim your hourly rewards. )
+	` Hunting Mission (12 Hours Delay, + Rewards Based on quest difficulty) ✓
+	` Costume Quest NPC
+
+Server Modification:
+	` Metamorphosis has been disabled from Mi Gao's Skill ✓
+	` MVP equipment drop rate has been seperated from the global drop rates
+	(Ex: Other normal has affected by the 10x drop rates rare mvp will be follow the normal 1x drop rate but increased by .3x total calculation will be 1.3x
+		other explanation of drop rate increase, Ex: Diablos Armor has 50% chance rate it will be 65% ) ✓
+	` Mail: Disabled ✓
+	` God Item Quest: Disabled ✓
+
+Items price reduced ( Economy Balancing Purposes. )
+	` Crystal Mirror 	= 5,000z		.ID# 747   ✓
+	` Witherless Rose	= 10,00z		.ID# 748   ✓
+	` Frozen Rose    	= 7,000z		.ID# 749   ✓
+	` Gold Ring      	= 7,000z		.ID# 2610  ✓
+	` Silver Ring    	= 6,000z		.ID# 2611  ✓
+	` Diamond Ring   	= 10,000z		.ID# 2613  ✓
+	` 1carat Diamond 	= 3,500z		.ID# 730   ✓
+	` 2carat Diamond 	= 5,500z		.ID# 731   ✓
+	` 3carat Diamond 	= 10,000z		.ID# 732   ✓
+	` Khukri         	= 90,000z		.ID# 13006 ✓
+	` Stiletto [2]   	= 7,550z		.ID# 1216  ✓
+	` Stiletto [3]   	= 7,550z		.ID# 1217  ✓
+	` Stilleto [0]   	= 7,550z		.ID# 1218  ✓
+	` Undershirt     	= 7,000z		.ID# 2523  ✓
+	` Crest Piece    	= 1,500z		.ID# 7356  ✓
+	` Armor Charm    	=  2,500z		.ID# 2656  ✓
+	` Mastela Fruit  	= 3,000z		.ID# 522   ✓
+	` Royal Jelly    	= 2,500z		.ID# 526   ✓
+
+Client Protection:
+	Gepard Protected + Hard Delay ( Server Side )
+	
+
+Player Commands:
+	@time | @date | @jailtime | @uptime | @refresh | @mobinfo | @exp | @rates | @iteminfo 
+	@whereis | @showexp | @showdelay | @autotrade | @changegm | @changeleader | @partyoption | @commands 
+	@noask | @request | @hominfo | @homstats | @noks | @whosell | @security | @order | @pettalk | @packetfilter 
